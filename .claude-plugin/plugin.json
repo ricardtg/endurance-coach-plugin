@@ -1,9 +1,0 @@
-{
-  "name": "endurance-coach",
-  "version": "0.2.1",
-  "description": "Personal endurance + strength coach for hybrid athletes. Combines Garmin Connect data with persistent athlete context (Obsidian vault recommended) to deliver running plans, strength programming, session tracking, and cross-modal load management. Supports race prep (running-first with complementary strength) and hypertrophy phases (strength-first with running maintenance).",
-  "author": {
-    "name": "Ricard Tapias"
-  },
-  "mcpServers": "./.mcp.json"
-}
