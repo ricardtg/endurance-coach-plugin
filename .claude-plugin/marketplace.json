@@ -1,0 +1,18 @@
+{
+  "name": "ricard-coach",
+  "owner": {
+    "name": "Ricard Tapias"
+  },
+  "description": "Personal marketplace for the endurance-coach plugin (Garmin bundled).",
+  "plugins": [
+    {
+      "name": "endurance-coach",
+      "source": "./plugins/endurance-coach",
+      "description": "Personal endurance + strength coach for hybrid athletes. Garmin MCP bundled.",
+      "version": "0.2.1",
+      "author": {
+        "name": "Ricard Tapias"
+      }
+    }
+  ]
+}
