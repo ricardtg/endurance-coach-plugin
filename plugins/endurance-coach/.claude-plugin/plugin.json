@@ -1,9 +1,12 @@
 {
   "name": "endurance-coach",
-  "version": "0.2.1",
-  "description": "Personal endurance + strength coach for hybrid athletes. Combines Garmin Connect data with persistent athlete context (Obsidian vault recommended) to deliver running plans, strength programming, session tracking, and cross-modal load management. Supports race prep (running-first with complementary strength) and hypertrophy phases (strength-first with running maintenance).",
+  "version": "0.4.0",
+  "description": "Running + strength coach for hybrid or single-sport athletes. Reads Garmin Connect (optional, bundled MCP) and keeps all athlete context in a plain markdown folder (Obsidian optional): profile, goals, current block, plans, logs and coaching preferences. Guided onboarding, always-active-plan lifecycle, gym logs, race-prep and hypertrophy strength programming.",
   "author": {
     "name": "Ricard Tapias"
   },
-  "mcpServers": "./.mcp.json"
+  "mcpServers": "./.mcp.json",
+  "license": "MIT",
+  "homepage": "https://github.com/ricardtg/endurance-coach-plugin",
+  "repository": "https://github.com/ricardtg/endurance-coach-plugin"
 }

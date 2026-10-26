@@ -1,4 +1,4 @@
-# Exercise Library — Strength-Endurance
+# Exercise Library: Strength-Endurance
 
 Check equipment.md before prescribing. If primary unavailable, use alternative. Never prescribe exercises on the athlete's avoid list.
 

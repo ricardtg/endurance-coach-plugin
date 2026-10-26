@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Athlete data (never commit a real coaching folder if symlinked)
+test-vault/
+coach-data/
+
+# Logs
+*.log
